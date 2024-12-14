@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "i84ol983G7cmpIBCcYhd+pNx/y9QYJ5r4VvRwyJaZZ0=",
+  "Source": "ProductFeedback",
+  "BasePath": "_content/ProductFeedback",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductFeedback/wwwroot",
+      "Source": "ProductFeedback",
+      "ContentRoot": "/Users/miraykaragoz/RiderProjects/ProductFeedback/wwwroot/",
+      "BasePath": "_content/ProductFeedback",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/miraykaragoz/RiderProjects/ProductFeedback/wwwroot/uploads/d0718448-6d1e-4650-a05c-34b06393b237.png",
+      "SourceId": "ProductFeedback",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miraykaragoz/RiderProjects/ProductFeedback/wwwroot/",
+      "BasePath": "_content/ProductFeedback",
+      "RelativePath": "uploads/d0718448-6d1e-4650-a05c-34b06393b237.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/d0718448-6d1e-4650-a05c-34b06393b237.png"
+    }
+  ]
+}

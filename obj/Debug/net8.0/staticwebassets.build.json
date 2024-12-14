@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "DzrOHx+qU2ScbeKO/JeouNDGIqHBI7pFPQooiZ9RH2s=",
+  "Source": "ProductFeedback",
+  "BasePath": "_content/ProductFeedback",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductFeedback/wwwroot",
+      "Source": "ProductFeedback",
+      "ContentRoot": "/Users/miraykaragoz/RiderProjects/ProductFeedback/wwwroot/",
+      "BasePath": "_content/ProductFeedback",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/miraykaragoz/RiderProjects/ProductFeedback/wwwroot/uploads/d0718448-6d1e-4650-a05c-34b06393b237.png",
+      "SourceId": "ProductFeedback",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/miraykaragoz/RiderProjects/ProductFeedback/wwwroot/",
+      "BasePath": "_content/ProductFeedback",
+      "RelativePath": "uploads/d0718448-6d1e-4650-a05c-34b06393b237#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "02otvatlru",
+      "Integrity": "+Oli8AX9+Tj+sXt7c1lAoblWug0HZMhaZ4uC4IgS4Mk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/d0718448-6d1e-4650-a05c-34b06393b237.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/d0718448-6d1e-4650-a05c-34b06393b237.02otvatlru.png",
+      "AssetFile": "/Users/miraykaragoz/RiderProjects/ProductFeedback/wwwroot/uploads/d0718448-6d1e-4650-a05c-34b06393b237.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4349556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Oli8AX9+Tj+sXt7c1lAoblWug0HZMhaZ4uC4IgS4Mk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:42:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02otvatlru"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d0718448-6d1e-4650-a05c-34b06393b237.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Oli8AX9+Tj+sXt7c1lAoblWug0HZMhaZ4uC4IgS4Mk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d0718448-6d1e-4650-a05c-34b06393b237.png",
+      "AssetFile": "/Users/miraykaragoz/RiderProjects/ProductFeedback/wwwroot/uploads/d0718448-6d1e-4650-a05c-34b06393b237.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4349556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Oli8AX9+Tj+sXt7c1lAoblWug0HZMhaZ4uC4IgS4Mk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 22:42:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Oli8AX9+Tj+sXt7c1lAoblWug0HZMhaZ4uC4IgS4Mk="
+        }
+      ]
+    }
+  ]
+}

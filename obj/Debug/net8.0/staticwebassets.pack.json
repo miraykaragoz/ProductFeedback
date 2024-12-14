@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/miraykaragoz/RiderProjects/ProductFeedback/wwwroot/uploads/d0718448-6d1e-4650-a05c-34b06393b237.png",
+      "PackagePath": "staticwebassets/uploads/d0718448-6d1e-4650-a05c-34b06393b237.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ProductFeedback.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ProductFeedback.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ProductFeedback.props",
+      "PackagePath": "build\\ProductFeedback.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProductFeedback.props",
+      "PackagePath": "buildMultiTargeting\\ProductFeedback.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProductFeedback.props",
+      "PackagePath": "buildTransitive\\ProductFeedback.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
